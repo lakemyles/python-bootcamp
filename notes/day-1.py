@@ -19,7 +19,7 @@
 # input("What is your name? ")
 
 # Challenge 1.3
-# name = input("What is your name? ")N
+# name = input("What is your name? ")
 # nameLength = len(name)
 # print(nameLength)
 
