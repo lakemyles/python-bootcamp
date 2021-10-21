@@ -107,14 +107,14 @@ pi = 3.1414592653589
 # Choose your own adventure game
 # 3 single quotes allows you to have a string on multiple lines.
 print('''
-_     /)---(\          /~~~\ 
-\    (/ . . \)        /  .. \ 
+_     /)---(\          /~~~\
+\    (/ . . \)        /  .. \
  \ __)-\(*)/         (_,\  |_)
- \_       (_         /   \@/    /^^^\ 
- (___/-(____) _     /      \   / . . \ 
+ \_       (_         /   \@/    /^^^\
+ (___/-(____) _     /      \   / . . \
               \    /  `    |   V\ Y /V
-               \ /  \   | _\    / - \ 
-                \   /__'|| \ _  |    \ 
+               \ /  \   | _\    / - \
+                \   /__'|| \ _  |    \
                  \_____)|_).\_).||(__V
 ''')
 print("Welcome to Treasure Island.")
