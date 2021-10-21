@@ -1,5 +1,7 @@
 # Control flow and logical operators
 
+pi = 3.1414592653589
+
 # Google Python Style Guide
 # module_name, package_name, ClassName, method_name, ExceptionName,
 # function_name, GLOBAL_CONSTANT_NAME, global_var_name, instance_var_name,
