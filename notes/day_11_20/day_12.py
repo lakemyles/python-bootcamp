@@ -54,4 +54,4 @@ print(player_mana)
 
 # Constants
 # Naming convention is to use all upper case for variable names, but
-# it's not a true constant. It can be modifyed.
+# it's not a true constant. It can be modified.
