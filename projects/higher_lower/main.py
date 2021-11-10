@@ -1,11 +1,11 @@
 import higher_lower
 
-user_is_correct = True
+is_game_over = False
 user_score = 0
 instagram_user_a = higher_lower.get_random_instagram_user()
 instagram_user_b = higher_lower.get_random_instagram_user()
 
-while user_is_correct:
+while not is_game_over:
     higher_lower.clear_screen()
     higher_lower.print_logo()
     higher_lower.print_current_score(user_score)
@@ -20,7 +20,7 @@ while user_is_correct:
         instagram_user_a = instagram_user_b
         instagram_user_b = higher_lower.get_random_instagram_user()
     else:
-        user_is_correct = False
+        is_game_over = True
 
 higher_lower.clear_screen()
 higher_lower.print_logo()
